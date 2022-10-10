@@ -1,0 +1,18 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-of-algs {
+	width: 100%;
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+}
+
+.timer {
+	font-size: 50px;
+}
+
+.record {
+	list-style: none;
+}
